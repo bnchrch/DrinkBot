@@ -10,6 +10,7 @@ A Slack chat bot to serve you drinks.
 
 ### To Run
 **Requires IO.js v3 or higher to run**
+
 1. In your console type:
 
    'npm start'
