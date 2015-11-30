@@ -9,6 +9,7 @@ A Slack chat bot to serve you drinks.
 4. Set the token from Slack to SLACK_API_KEY in your env
 
 ### To Run
+**Requires IO.js v3 or higher to run**
 1. In your console type:
 
    'npm start'
